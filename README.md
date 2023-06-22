@@ -1,0 +1,2 @@
+# exampleDiscordBot
+Book用のデモDiscordBotのリポジトリ
